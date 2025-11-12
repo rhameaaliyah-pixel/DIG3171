@@ -5,7 +5,7 @@ title: Research Project
 
 # My Final Research Project  
 
-Project: Curated Selves
+<h1><a href="CuratedSelves.html">Project: Curated Selves</a></h1>
 
 # Abstract
 
